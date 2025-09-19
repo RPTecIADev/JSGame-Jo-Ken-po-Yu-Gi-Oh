@@ -12,3 +12,4 @@ Exodia - Tesoura   |   Mago Negro - Pedra   |   Dragão dos olhos azuis - Papel
 Acesse a página e jogue :D
 ===>     https://rpteciadev.github.io/JSGame-Jo-Ken-po-Yu-Gi-Oh     <===
 
+
