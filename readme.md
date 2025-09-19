@@ -1,8 +1,6 @@
-### JSGame Jo-Ken-Po | Yu-Gi-Oh | Edition
-
-![image](https://github.com/RPTecDev/JSGame-Jo-Ken-po-Yu-Gi-Oh/assets/114440054/02d4fb7c-fc70-4740-9262-a2f8111f50ff)
 
 # 🎮 JSGame: Jo-Ken-Po - Edição Duelo de Monstros 🃏
+![image](https://github.com/RPTecDev/JSGame-Jo-Ken-po-Yu-Gi-Oh/assets/114440054/02d4fb7c-fc70-4740-9262-a2f8111f50ff)
 
 
 ### "É hora do duelo!" - _Yugi Muto_
@@ -11,7 +9,7 @@ Prepare-se, duelista! Você acaba de adentrar em uma arena onde a estratégia an
 
 Aqui, cada escolha não é apenas um gesto, mas a invocação de uma carta icônica para o campo de batalha.
 
-🔗 **[Entre na Arena e Duele Agora!]** ## 📜 Análise Sênior do Duelo
+## 📜🔗 **[Entre na Arena e Duele Agora!]** 
 
 Como desenvolvedor sênior, analisei o grimório de códigos deste projeto e fiquei impressionado com a eficiência e a clareza da implementação.
 
@@ -60,7 +58,8 @@ A organização dos artefatos deste projeto foi feita para facilitar a busca por
 ```
 
 Acesse a página e jogue :D
-===>     https://rpteciadev.github.io/JSGame-Jo-Ken-po-Yu-Gi-Oh     <===
+===>          <===
+
 
 
 
