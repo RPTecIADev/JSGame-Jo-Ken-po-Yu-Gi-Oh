@@ -10,7 +10,7 @@ Prepare-se, duelista! Você acaba de adentrar em uma arena onde a estratégia an
 Aqui, cada escolha não é apenas um gesto, mas a invocação de uma carta icônica para o campo de batalha.
 
 ## 💻🔗📜 Site do Projeto
-![Entre na Arena e Duele Agora!](https://rptecdev.github.io/JSGame-Jo-Ken-po-Yu-Gi-Oh)
+[Entre na Arena e Duele Agora!](https://rptecdev.github.io/JSGame-Jo-Ken-po-Yu-Gi-Oh)
 
 Como desenvolvedor sênior, analisei o grimório de códigos deste projeto e fiquei impressionado com a eficiência e a clareza da implementação.
 
@@ -83,6 +83,7 @@ Todo grande duelista sabe que seu deck sempre pode ser aprimorado.
 - [ ] **Deck Variado:** Adicionar mais trios de cartas para aumentar a rejogabilidade.
 - [ ] **Animações de Batalha:** Criar animações de ataque quando uma carta vence a outra.
 - [ ] **Sistema de Pontos de Vida (LP):** Substituir o placar simples por um sistema de 8000 LP, como no anime.
+
 
 
 
