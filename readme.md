@@ -9,7 +9,7 @@ Prepare-se, duelista! Você acaba de adentrar em uma arena onde a estratégia an
 
 Aqui, cada escolha não é apenas um gesto, mas a invocação de uma carta icônica para o campo de batalha.
 
-## 📜🔗 **[Entre na Arena e Duele Agora!]** 
+## 📜🔗 **[Entre na Arena e Duele Agora!]**(https://rptecdev.github.io/JSGame-Jo-Ken-po-Yu-Gi-Oh)
 
 Como desenvolvedor sênior, analisei o grimório de códigos deste projeto e fiquei impressionado com a eficiência e a clareza da implementação.
 
@@ -56,10 +56,31 @@ A organização dos artefatos deste projeto foi feita para facilitar a busca por
 │       └── engine.js    # A mente por trás do duelo: toda a lógica do jogo
 └── index.html           # O portal de entrada para a arena
 ```
+## 🚀 Como Iniciar seu Próprio Duelo (Rodando Localmente)
 
-Acesse a página e jogue :D
-===>          <===
+Para ter uma cópia deste projeto e duelar em sua própria máquina, não é necessário nenhum ritual complexo.
 
+1.  **Clone o repositório (Adquira as Cartas Raras):**
+    ```bash
+    git clone [https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh.git](https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh.git)
+    ```
 
+2.  **Navegue até a pasta do projeto (Entre na Arena):**
+    ```bash
+    cd JSGame-Jo-Ken-po-Yu-Gi-Oh
+    ```
+
+3.  **Abra o arquivo `index.html` no seu navegador.**
+
+Isso é tudo! Não há dependências ou processos de build. Apenas a pura magia do HTML, CSS e JavaScript.
+
+## 🔮 Visões do Olho do Milênio (Melhorias Futuras)
+
+Todo grande duelista sabe que seu deck sempre pode ser aprimorado.
+
+- [ ] **Seleção de Personagens:** Permitir que o jogador escolha entre Yugi e Kaiba, mudando o tema da arena.
+- [ ] **Deck Variado:** Adicionar mais trios de cartas para aumentar a rejogabilidade.
+- [ ] **Animações de Batalha:** Criar animações de ataque quando uma carta vence a outra.
+- [ ] **Sistema de Pontos de Vida (LP):** Substituir o placar simples por um sistema de 8000 LP, como no anime.
 
 
