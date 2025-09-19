@@ -10,4 +10,5 @@ Para entender a dinânica, temos três cartas do baralho do Yugi que representam
 Exodia - Tesoura   |   Mago Negro - Pedra   |   Dragão dos olhos azuis - Papel
 
 Acesse a página e jogue :D
-===>     https://rptecdev.github.io/JSGame-Jo-Ken-po-Yu-Gi-Oh     <===
+===>     https://rpteciadev.github.io/JSGame-Jo-Ken-po-Yu-Gi-Oh     <===
+
