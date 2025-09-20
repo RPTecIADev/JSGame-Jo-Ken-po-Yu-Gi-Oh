@@ -1,4 +1,3 @@
-
 # 🎮 JSGame: Jo-Ken-Po - Edição Duelo de Monstros 🃏
 ![image](https://github.com/RPTecDev/JSGame-Jo-Ken-po-Yu-Gi-Oh/assets/114440054/02d4fb7c-fc70-4740-9262-a2f8111f50ff)
 
@@ -63,7 +62,7 @@ Para ter uma cópia deste projeto e duelar em sua própria máquina, não é nec
 
 1.  **Clone o repositório (Adquira as Cartas Raras):**
     ```bash
-    git clone [https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh.git](https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh.git)
+    git clone https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh.git
     ```
 
 2.  **Navegue até a pasta do projeto (Entre na Arena):**
@@ -83,6 +82,7 @@ Todo grande duelista sabe que seu deck sempre pode ser aprimorado.
 - [ ] **Deck Variado:** Adicionar mais trios de cartas para aumentar a rejogabilidade.
 - [ ] **Animações de Batalha:** Criar animações de ataque quando uma carta vence a outra.
 - [ ] **Sistema de Pontos de Vida (LP):** Substituir o placar simples por um sistema de 8000 LP, como no anime.
+
 
 
 
