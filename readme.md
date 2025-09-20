@@ -83,6 +83,13 @@ Todo grande duelista sabe que seu deck sempre pode ser aprimorado.
 - [ ] **Animações de Batalha:** Criar animações de ataque quando uma carta vence a outra.
 - [ ] **Sistema de Pontos de Vida (LP):** Substituir o placar simples por um sistema de 8000 LP, como no anime.
 
+---
+
+## ✒️ Autor
+
+**Rafael Rodrigues Pereira** - [linkedin](https://www.linkedin.com/in/rafaelrpereira/)
+
+
 
 
 
