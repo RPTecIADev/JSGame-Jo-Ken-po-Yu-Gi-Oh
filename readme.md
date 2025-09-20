@@ -11,7 +11,7 @@ Aqui, cada escolha não é apenas um gesto, mas a invocação de uma carta icôn
 ## 💻🔗📜 Site do Projeto
 [Entre na Arena e Duele Agora!](https://rpteciadev.github.io/JSGame-Jo-Ken-po-Yu-Gi-Oh)
 
-Como desenvolvedor sênior, analisei o grimório de códigos deste projeto e fiquei impressionado com a eficiência e a clareza da implementação.
+Detalhes da eficiência e a clareza da implementação:
 
 -   **Arquitetura Direta e Eficaz:** O projeto utiliza uma abordagem clássica e robusta com HTML, CSS e JavaScript puros. A estrutura é focada e demonstra um excelente domínio dos fundamentos do desenvolvimento web, sem a necessidade de frameworks complexos.
 -   **Manipulação do DOM com Maestria:** O coração do jogo reside no `scripts.js`. A forma como o script captura os eventos do jogador, atualiza a interface (placar, imagens das cartas, resultados) e gerencia o estado do jogo é um exemplo prático e bem executado de manipulação do DOM. Funções como `playHuman` e `playMachine` são claras e coesas.
@@ -88,6 +88,7 @@ Todo grande duelista sabe que seu deck sempre pode ser aprimorado.
 ## ✒️ Autor
 
 **Rafael Rodrigues Pereira** - [linkedin](https://www.linkedin.com/in/rafaelrpereira/)
+
 
 
 
